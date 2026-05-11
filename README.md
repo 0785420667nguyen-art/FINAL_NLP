@@ -13,9 +13,6 @@ Hệ thống hỏi đáp tiếng Việt thông minh trên miền tri thức **Lu
 
 ```
 FINAL_NLP/
-├── 52100144_52200060_52300230.pdf          # Báo cáo chi tiết (15-20 trang)
-├── 52100144_52200060_52300230.pptx         # Slide thuyết trình
-├── demo_nlp_final.mov                      # Video demo (3-5 phút)
 ├── NLP_final.ipynb                         # Notebook training & evaluation
 ├── requirements.txt                        # Python dependencies
 ├── hoidap_luatgiaothong/                   # Flutter mobile app
@@ -25,6 +22,8 @@ FINAL_NLP/
 │   └── ios/                                # iOS config
 └── README.md                               # File này
 ```
+
+> **Lưu ý**: Báo cáo PDF, Slide PowerPoint và Video demo được lưu trữ trên Google Drive để giảm kích thước repository.
 
 ---
 
@@ -98,10 +97,16 @@ Chi tiết kết quả xem trong **báo cáo PDF**.
 
 ## 📄 Tài liệu
 
-- **Báo cáo**: [`52100144_52200060_52300230.pdf`](52100144_52200060_52300230.pdf)
-- **Slide**: [`52100144_52200060_52300230.pptx`](52100144_52200060_52300230.pptx)
-- **Video demo**: [`demo_nlp_final.mov`](demo_nlp_final.mov)
-- **Hướng dẫn chi tiết**: [`hoidap_luatgiaothong/README.md`](hoidap_luatgiaothong/README.md)
+Tất cả tài liệu được lưu trữ trên **Google Drive**:
+
+- **Báo cáo PDF**: `52100144_52200060_52300230.pdf` (15-20 trang)
+- **Slide PowerPoint**: `52100144_52200060_52300230.pptx`
+- **Video demo**: `demo_nlp_final.mov` (3-5 phút)
+- **Dataset & Checkpoint**: Training data, test data, model weights
+
+📥 **Download tất cả**: [Google Drive](https://drive.google.com/drive/folders/1sHoBs3rLBSa0pp8aC0KqJLXNSzFn0aRN)
+
+**Hướng dẫn chi tiết**: [`hoidap_luatgiaothong/README.md`](hoidap_luatgiaothong/README.md)
 
 ---
 
