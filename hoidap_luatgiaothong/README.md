@@ -100,8 +100,8 @@ Dự án xây dựng hệ thống hỏi đáp tự động về Luật Giao Thô
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/hoidap-luatgiaothong.git
-cd hoidap-luatgiaothong
+git clone https://github.com/0785420667nguyen-art/FINAL_NLP.git
+cd FINAL_NLP/52100144_52200060_52300230
 ```
 
 ### 2. Cài đặt Python dependencies
